@@ -1,6 +1,6 @@
 # rock_paper_scissor
 Lol..I think there is no need to explain the game rules.</br>
-Just try this game by clicking the link given below: </br> 
+Come play with ME by clicking the link given below: </br> 
    https://kowshik-me.github.io/rock_paper_scissor/  
 </br>
 </br>
